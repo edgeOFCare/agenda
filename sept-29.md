@@ -24,7 +24,7 @@
 	- Make a copy of the 'myname.md', rename it accordingly, add info to it.
 - pandoc exercise (note all that pandoc can do). 
 	- download & install pandoc
-	- Use Pandoc to convert myname.md to a .pdf
+	- Use Pandoc to convert myname.md to .html (note that .pdf is a bit more difficult)
 - github exercise.
 	- Commit your changes; push your changes to your copy of the repo; sumbit a pull request to me to integrate your changes to the 'official' repo.
 
