@@ -20,13 +20,13 @@
 	- Download desktop client; differences between working on desktop/web 
 	- Fork the digh5000 repo; clone on desktop. 
 - markdown exercise. explain how this enhances sustainability of your research (note my reveal.js framework) 
-	-use dillinger.io to see how markdown works.
-	-Make a copy of the 'myname.md', rename it accordingly, add info to it.
+	- use dillinger.io to see how markdown works.
+	- Make a copy of the 'myname.md', rename it accordingly, add info to it.
 - pandoc exercise (note all that pandoc can do). 
-	-download & install pandoc
-	-Use Pandoc to convert myname.md to a .pdf
+	- download & install pandoc
+	- Use Pandoc to convert myname.md to a .pdf
 - github exercise.
-	Commit your changes; push your changes to your copy of the repo; sumbit a pull request to me to integrate your changes to the 'official' repo.
+	- Commit your changes; push your changes to your copy of the repo; sumbit a pull request to me to integrate your changes to the 'official' repo.
 
  ## things that now become available to you to do, now that you know these three parts.
 
