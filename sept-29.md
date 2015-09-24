@@ -24,7 +24,7 @@
 	- Make a copy of the 'myname.md', rename it accordingly, add info to it.
 - pandoc exercise (note all that pandoc can do). 
 	- download & install pandoc
-	- Use Pandoc to convert myname.md to .html (note that .pdf is a bit more difficult)
+	- Use Pandoc to convert myname.md to .html (note that .pdf is a bit more difficult[1])
 - github exercise.
 	- Commit your changes; push your changes to your copy of the repo; sumbit a pull request to me to integrate your changes to the 'official' repo.
 
@@ -41,3 +41,8 @@ With these skills, you are now equipped to participate in the wider life of the 
 - assignments & tool tutorials
 - What to do for next week.
 - other business?
+
+[1] you have to install a LaTeX engine. There's a link on the Pandoc page to what you need. Then, changing to .pdf is pretty easy:
+> `pandoc 'sept 29 plan.md' --latex-engine=pdflatex -o plan.pdf`
+
+...and what is also cool is that you can use stylesheets to do some funky stuff - see [Caleb McDaniel again](http://wcm1.web.rice.edu/pandoc-on-ios.html)
