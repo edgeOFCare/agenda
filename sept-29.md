@@ -11,9 +11,11 @@
 - Not going to define DH for you. Rather, the project in this class will be to craft a discipline-specific primer on DH for your home discipline. Build it to mitigate those fears.
 
 ## Getting set up with your own DH laboratory
-	- what that even means.
+
+- what does that even means?
 
 > critical piece: code & transparency. Getting set up on github. Push, pull, fork & clone
+
 	- github exercise.
 		- Download desktop client; differences between working on desktop/web 
 		- Fork the digh5000 repo; clone on desktop. 
