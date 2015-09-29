@@ -10,6 +10,7 @@
 
 - Not going to define DH for you. Rather, the project in this class will be to craft a discipline-specific primer on DH for your home discipline. Build it to mitigate those fears.
 
+-----
 ## Getting set up with your own DH laboratory
 
 - what does that even means?
@@ -28,6 +29,7 @@
 - github exercise.
 	- Commit your changes; push your changes to your copy of the repo; sumbit a pull request to me to integrate your changes to the 'official' repo.
 
+-----
  ### things that now become available to you to do, now that you know these three parts.
 
  - eg: explaining open notebook humanities works (talk about Caleb McDaniel http://wcm1.web.rice.edu/open-notebook-history.html)
