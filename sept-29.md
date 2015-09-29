@@ -30,9 +30,9 @@
 	- Commit your changes; push your changes to your copy of the repo; sumbit a pull request to me to integrate your changes to the 'official' repo.
 
 -----
- ### things that now become available to you to do, now that you know these three parts.
+### things that now become available to you to do, now that you know these three parts.
 
- - eg: explaining open notebook humanities works (talk about Caleb McDaniel http://wcm1.web.rice.edu/open-notebook-history.html)
+- eg: explaining open notebook humanities works (talk about Caleb McDaniel http://wcm1.web.rice.edu/open-notebook-history.html)
 - show Ryan, Christina repos: especially her map, show how forking etc creates a citation trail, an alternative way of assessing impact
 
 With these skills, you are now equipped to participate in the wider life of the DH community. 
