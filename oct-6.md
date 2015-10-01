@@ -1,13 +1,12 @@
 #DH 5000
 ## Agenda for Oct 6 How we got here; 'code'
 
-+ Seminar presentation by Jenna:
++ Seminar presentation by Jenna (cf [instructions](http://dhcu.ca/2015/what-is-a-seminar)):
 > Eric Steven Raymond, 'The Cathedral & the Bazaar' http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
-Susan Hockey, "The History of Humanities Computing" in A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. http://www.digitalhumanities.org/companion/
-Paul Ford, ‘What is Code?’ http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+> Susan Hockey, "The History of Humanities Computing" in A Companion to Digital Humanities, ed. Susan Schreibman, Ray Siemens, John Unsworth. Oxford: Blackwell, 2004. http://www.digitalhumanities.org/companion/
+> Paul Ford, ‘What is Code?’ http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 
 + Break
-
 + tool tutorial
   + fork the tool tutorial template
   + feel free to write / explore / think in groups, up to 3.
