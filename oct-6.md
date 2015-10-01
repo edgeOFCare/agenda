@@ -11,7 +11,7 @@
   + fork the tool tutorial template
   + feel free to write / explore / think in groups, up to 3.
   + choose from the available options:
-    - Visualizating Github repositories history: http://ghv.artzub.com/
+    - Visualizing Github repositories history: http://ghv.artzub.com/
     - Gource: http://gource.io/
     - Git: https://git-scm.com/
     - Github: http://github.com
